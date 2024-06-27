@@ -11,8 +11,6 @@
 
 <img width="1440" alt="Screenshot 2024-06-28 at 1 08 26 AM" src="https://github.com/Vishu-phogat/ToDo_List/assets/108395193/1141c839-b2d9-470f-b5ae-98b7146a3ff1">
 
-<img width="1440" alt="Screenshot 2024-06-28 at 1 09 09 AM" src="https://github.com/Vishu-phogat/ToDo_List/assets/108395193/d324d09c-1984-46dc-8611-6581d71eaf79">
-
 <img width="1440" alt="Screenshot 2024-06-28 at 1 09 20 AM" src="https://github.com/Vishu-phogat/ToDo_List/assets/108395193/44d4ca29-4cdb-4fd3-9f68-80a4a3f969e5">
 
 
