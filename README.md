@@ -13,8 +13,7 @@
 <img width="1440" alt="Screenshot 2024-06-28 at 1 08 26 AM" src="https://github.com/Vishu-phogat/ToDo_List/assets/108395193/1141c839-b2d9-470f-b5ae-98b7146a3ff1">
 
 ## and also we can delete any item by clicking on that item only once.
-## by this the sequence will not get effected, the selected item got 
-## deleted and the next item takes the place of the deleted item.
+## By this the sequence will not get effected, the selected item got deleted and the next item takes the place of the deleted item.
 
 <img width="1440" alt="Screenshot 2024-06-28 at 1 09 20 AM" src="https://github.com/Vishu-phogat/ToDo_List/assets/108395193/44d4ca29-4cdb-4fd3-9f68-80a4a3f969e5">
 
